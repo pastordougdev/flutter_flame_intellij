@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/intellij-plugins/flutter-test-projects">
+          <value>
+            <RecentProjectMetaInfo frameTitle="flame_plugin_est" projectWorkspaceId="2H5quyxNTy5BnG0AhjwqI7fiDCV">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775464993" />
+              <frame x="196" y="45" width="1400" height="990" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1667585644253" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/intellij-plugins/flutter-test-projects/flutter_flame_test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="flutter_flame_test – def_ghi.dart" opened="true" projectWorkspaceId="2H5r9sUNCJ8w1zETkMf27Nbmpuu">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-203.5981.155" />
+              <option name="buildTimestamp" value="1606775464993" />
+              <frame x="0" y="25" width="1792" height="1030" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1667585650151" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/intellij-plugins/flutter-test-projects" />
+  </component>
+</application>
