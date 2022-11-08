@@ -11,8 +11,8 @@ import com.intellij.psi.PsiDirectory
 import com.intellij.psi.PsiDocumentManager
 import com.intellij.psi.PsiFileFactory
 import com.intellij.psi.codeStyle.CodeStyleManager
-import pastordougdev.dartbarrelfile.misc.getDirName
 import pastordougdev.flutterflame.dialog.NewFlameComponentTabbedDialog
+import pastordougdev.flutterflame.misc.getDirName
 import pastordougdev.flutterflame.models.FlameComponentBuilder
 
 class FlutterFlameComponentAction : AnAction() {

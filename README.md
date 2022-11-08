@@ -15,6 +15,7 @@ This plugin is created for assisting in working with the Flutter Flame Game fram
     <li>Select Mixins to add to class definition along with any needed Generic Type arguments</li>
 </ul>
 
+Visit the project Github page for more information:  https://github.com/pastordougdev/flutter_flame_intellij
 
 ## Under The Hood
 
